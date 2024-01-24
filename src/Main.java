@@ -5,7 +5,7 @@ public class Main {
 
         int lowTemp = 32;
         String days[] = {"sunday", "monday","tuesday","wednesday","thursday","friday","saturday"};
-        int dailyHighs[] = {45, 29, 10, 22, 41, 33};
+        int dailyHighs[] = {45, 29, 10, 22, 41, 28, 33};
         int precip[] = {95, 60, 25, 5, 0, 75, 90};
 
         for(int i = 0; i < dailyHighs.length; i++) {
